@@ -20,8 +20,4 @@
 <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,postgres,figma,postman,sklearn,git" alt="skills">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrezzakekidi&show_icons=true&locale=en&layout=compact" alt="abdurrezzakekidi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrezzakekidi&show_icons=true&locale=en" alt="abdurrezzakekidi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrezzakekidi&" alt="abdurrezzakekidi" /></p>
