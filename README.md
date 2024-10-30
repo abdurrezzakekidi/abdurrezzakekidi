@@ -17,7 +17,7 @@
 
 <!-- About Me Section -->
 ## Languages and Tools:
-<img src="https://skillicons.dev/icons?i=python,java,spring,html,css,postgres,figma,postman,sklearn,git" alt="skills">
+<img src="https://skillicons.dev/icons?i=python,java,spring,html,css,postgres,postman,sklearn,git" alt="skills">
 
 
 
